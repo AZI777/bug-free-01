@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+  "command": "E:\\ProgramFiles\\Qt5\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/NevigationSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\NevigationSystem.dir\\NevigationSystem_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\azi\\Desktop\\Qt_Nevigation_System\\build\\NevigationSystem_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/azi/Desktop/Qt_Nevigation_System/build/NevigationSystem_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/NevigationSystem.dir/NevigationSystem_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+  "command": "E:\\ProgramFiles\\Qt5\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/NevigationSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\NevigationSystem.dir\\src\\Elist.cpp.obj -c C:\\Users\\azi\\Desktop\\Qt_Nevigation_System\\src\\Elist.cpp",
+  "file": "C:/Users/azi/Desktop/Qt_Nevigation_System/src/Elist.cpp",
+  "output": "CMakeFiles/NevigationSystem.dir/src/Elist.cpp.obj"
+},
+{
+  "directory": "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+  "command": "E:\\ProgramFiles\\Qt5\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/NevigationSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\NevigationSystem.dir\\src\\Enode.cpp.obj -c C:\\Users\\azi\\Desktop\\Qt_Nevigation_System\\src\\Enode.cpp",
+  "file": "C:/Users/azi/Desktop/Qt_Nevigation_System/src/Enode.cpp",
+  "output": "CMakeFiles/NevigationSystem.dir/src/Enode.cpp.obj"
+},
+{
+  "directory": "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+  "command": "E:\\ProgramFiles\\Qt5\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/NevigationSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\NevigationSystem.dir\\src\\Llist.cpp.obj -c C:\\Users\\azi\\Desktop\\Qt_Nevigation_System\\src\\Llist.cpp",
+  "file": "C:/Users/azi/Desktop/Qt_Nevigation_System/src/Llist.cpp",
+  "output": "CMakeFiles/NevigationSystem.dir/src/Llist.cpp.obj"
+},
+{
+  "directory": "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+  "command": "E:\\ProgramFiles\\Qt5\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/NevigationSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\NevigationSystem.dir\\src\\Lnode.cpp.obj -c C:\\Users\\azi\\Desktop\\Qt_Nevigation_System\\src\\Lnode.cpp",
+  "file": "C:/Users/azi/Desktop/Qt_Nevigation_System/src/Lnode.cpp",
+  "output": "CMakeFiles/NevigationSystem.dir/src/Lnode.cpp.obj"
+},
+{
+  "directory": "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+  "command": "E:\\ProgramFiles\\Qt5\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/NevigationSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\NevigationSystem.dir\\src\\NevigationSystem.cpp.obj -c C:\\Users\\azi\\Desktop\\Qt_Nevigation_System\\src\\NevigationSystem.cpp",
+  "file": "C:/Users/azi/Desktop/Qt_Nevigation_System/src/NevigationSystem.cpp",
+  "output": "CMakeFiles/NevigationSystem.dir/src/NevigationSystem.cpp.obj"
+},
+{
+  "directory": "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+  "command": "E:\\ProgramFiles\\Qt5\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/NevigationSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\NevigationSystem.dir\\src\\edge.cpp.obj -c C:\\Users\\azi\\Desktop\\Qt_Nevigation_System\\src\\edge.cpp",
+  "file": "C:/Users/azi/Desktop/Qt_Nevigation_System/src/edge.cpp",
+  "output": "CMakeFiles/NevigationSystem.dir/src/edge.cpp.obj"
+},
+{
+  "directory": "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+  "command": "E:\\ProgramFiles\\Qt5\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/NevigationSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\NevigationSystem.dir\\src\\graph.cpp.obj -c C:\\Users\\azi\\Desktop\\Qt_Nevigation_System\\src\\graph.cpp",
+  "file": "C:/Users/azi/Desktop/Qt_Nevigation_System/src/graph.cpp",
+  "output": "CMakeFiles/NevigationSystem.dir/src/graph.cpp.obj"
+},
+{
+  "directory": "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+  "command": "E:\\ProgramFiles\\Qt5\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/NevigationSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\NevigationSystem.dir\\src\\loc.cpp.obj -c C:\\Users\\azi\\Desktop\\Qt_Nevigation_System\\src\\loc.cpp",
+  "file": "C:/Users/azi/Desktop/Qt_Nevigation_System/src/loc.cpp",
+  "output": "CMakeFiles/NevigationSystem.dir/src/loc.cpp.obj"
+},
+{
+  "directory": "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+  "command": "E:\\ProgramFiles\\Qt5\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/NevigationSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\NevigationSystem.dir\\src\\main.cpp.obj -c C:\\Users\\azi\\Desktop\\Qt_Nevigation_System\\src\\main.cpp",
+  "file": "C:/Users/azi/Desktop/Qt_Nevigation_System/src/main.cpp",
+  "output": "CMakeFiles/NevigationSystem.dir/src/main.cpp.obj"
+}
+]

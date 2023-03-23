@@ -1,0 +1,4 @@
+C:/Users/azi/Desktop/Qt_Nevigation_System/build/CMakeFiles/NevigationSystem.dir
+C:/Users/azi/Desktop/Qt_Nevigation_System/build/CMakeFiles/edit_cache.dir
+C:/Users/azi/Desktop/Qt_Nevigation_System/build/CMakeFiles/rebuild_cache.dir
+C:/Users/azi/Desktop/Qt_Nevigation_System/build/CMakeFiles/NevigationSystem_autogen.dir

@@ -1,0 +1,9 @@
+{
+    "qtConfigure.qtKitDir": "E:/ProgramFiles/Qt5/5.14.2/mingw73_64",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp"
+    }
+}

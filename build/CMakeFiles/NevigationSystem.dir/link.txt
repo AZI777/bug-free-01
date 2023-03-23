@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\NevigationSystem.dir/objects.a
+E:\ProgramFiles\Qt5\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\NevigationSystem.dir/objects.a @CMakeFiles\NevigationSystem.dir\objects1.rsp
+E:\ProgramFiles\Qt5\Tools\mingw730_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\NevigationSystem.dir/objects.a -Wl,--no-whole-archive -o NevigationSystem.exe -Wl,--out-implib,libNevigationSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NevigationSystem.dir\linkLibs.rsp

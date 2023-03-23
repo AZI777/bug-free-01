@@ -1,0 +1,192 @@
+{
+	"BUILD_DIR" : "C:/Users/azi/Desktop/Qt_Nevigation_System/build/NevigationSystem_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/azi/Desktop/Qt_Nevigation_System",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/azi/Desktop/Qt_Nevigation_System/CMakeLists.txt",
+		"C:/Users/azi/Desktop/Qt_Nevigation_System/build/CMakeFiles/3.26.0/CMakeSystem.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Users/azi/Desktop/Qt_Nevigation_System/build/CMakeFiles/3.26.0/CMakeCXXCompiler.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCXXInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/GNU.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake",
+		"C:/Users/azi/Desktop/Qt_Nevigation_System/build/CMakeFiles/3.26.0/CMakeRCCompiler.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeRCInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-windres.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeParseArguments.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/azi/Desktop/Qt_Nevigation_System",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/azi/Desktop/Qt_Nevigation_System/src/Elist.h",
+			"MU",
+			"UVLADIE3JM/moc_Elist.cpp",
+			null
+		],
+		[
+			"C:/Users/azi/Desktop/Qt_Nevigation_System/src/Enode.h",
+			"MU",
+			"UVLADIE3JM/moc_Enode.cpp",
+			null
+		],
+		[
+			"C:/Users/azi/Desktop/Qt_Nevigation_System/src/Llist.h",
+			"MU",
+			"UVLADIE3JM/moc_Llist.cpp",
+			null
+		],
+		[
+			"C:/Users/azi/Desktop/Qt_Nevigation_System/src/Lnode.h",
+			"MU",
+			"UVLADIE3JM/moc_Lnode.cpp",
+			null
+		],
+		[
+			"C:/Users/azi/Desktop/Qt_Nevigation_System/src/NevigationSystem.h",
+			"MU",
+			"UVLADIE3JM/moc_NevigationSystem.cpp",
+			null
+		],
+		[
+			"C:/Users/azi/Desktop/Qt_Nevigation_System/src/edge.h",
+			"MU",
+			"UVLADIE3JM/moc_edge.cpp",
+			null
+		],
+		[
+			"C:/Users/azi/Desktop/Qt_Nevigation_System/src/graph.h",
+			"MU",
+			"UVLADIE3JM/moc_graph.cpp",
+			null
+		],
+		[
+			"C:/Users/azi/Desktop/Qt_Nevigation_System/src/loc.h",
+			"MU",
+			"UVLADIE3JM/moc_loc.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/azi/Desktop/Qt_Nevigation_System/build/NevigationSystem_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/azi/Desktop/Qt_Nevigation_System/build/NevigationSystem_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/azi/Desktop/Qt_Nevigation_System/build",
+		"C:/Users/azi/Desktop/Qt_Nevigation_System",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/include",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/include/QtWidgets",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/include/QtGui",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/include/QtANGLE",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/include/QtCore",
+		"E:/ProgramFiles/Qt5/5.14.2/mingw73_64/mkspecs/win32-g++",
+		"E:/ProgramFiles/Qt5/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++",
+		"E:/ProgramFiles/Qt5/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32",
+		"E:/ProgramFiles/Qt5/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward",
+		"E:/ProgramFiles/Qt5/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+		"E:/ProgramFiles/Qt5/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+		"E:/ProgramFiles/Qt5/Tools/mingw730_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"E:/ProgramFiles/Qt5/Tools/mingw730_64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/azi/Desktop/Qt_Nevigation_System/build/NevigationSystem_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "C:/Users/azi/Desktop/Qt_Nevigation_System/build/CMakeFiles/NevigationSystem_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "E:/ProgramFiles/Qt5/5.14.2/mingw73_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "E:/ProgramFiles/Qt5/5.14.2/mingw73_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "C:/Users/azi/Desktop/Qt_Nevigation_System/build/CMakeFiles/NevigationSystem_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "C:/Users/azi/Desktop/Qt_Nevigation_System/src/Elist.cpp", "MU", null ],
+		[ "C:/Users/azi/Desktop/Qt_Nevigation_System/src/Enode.cpp", "MU", null ],
+		[ "C:/Users/azi/Desktop/Qt_Nevigation_System/src/Llist.cpp", "MU", null ],
+		[ "C:/Users/azi/Desktop/Qt_Nevigation_System/src/Lnode.cpp", "MU", null ],
+		[
+			"C:/Users/azi/Desktop/Qt_Nevigation_System/src/NevigationSystem.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Users/azi/Desktop/Qt_Nevigation_System/src/edge.cpp", "MU", null ],
+		[ "C:/Users/azi/Desktop/Qt_Nevigation_System/src/graph.cpp", "MU", null ],
+		[ "C:/Users/azi/Desktop/Qt_Nevigation_System/src/loc.cpp", "MU", null ],
+		[ "C:/Users/azi/Desktop/Qt_Nevigation_System/src/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
